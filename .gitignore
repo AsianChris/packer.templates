@@ -11,3 +11,6 @@ Thumbs.db
 # Project specific
 *.box
 *.log
+
+# Packer
+packer_cache
