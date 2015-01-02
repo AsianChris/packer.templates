@@ -169,6 +169,7 @@
                         "../script/common/virtualbox.sh",
                         "../script/common/motd.sh",
                         "../script/packages/web.sh",
+                        "../script/packages/git.sh",
                         "../script/packages/mysql.sh",
                         "../script/packages/memcached.sh",
                         "../script/packages/redis.sh",
@@ -183,6 +184,7 @@
                         "../script/common/virtualbox.sh",
                         "../script/common/motd.sh",
                         "../script/packages/web.sh",
+                        "../script/packages/git.sh",
                         "../script/ubuntu/cleanup.sh"
                     ]
                 },
